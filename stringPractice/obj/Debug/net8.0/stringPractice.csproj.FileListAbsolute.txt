@@ -1,0 +1,15 @@
+C:\Users\Nimap\Pictures\New_DotNet\Review_Question\stringPractice\bin\Debug\net8.0\stringPractice.exe
+C:\Users\Nimap\Pictures\New_DotNet\Review_Question\stringPractice\bin\Debug\net8.0\stringPractice.deps.json
+C:\Users\Nimap\Pictures\New_DotNet\Review_Question\stringPractice\bin\Debug\net8.0\stringPractice.runtimeconfig.json
+C:\Users\Nimap\Pictures\New_DotNet\Review_Question\stringPractice\bin\Debug\net8.0\stringPractice.dll
+C:\Users\Nimap\Pictures\New_DotNet\Review_Question\stringPractice\bin\Debug\net8.0\stringPractice.pdb
+C:\Users\Nimap\Pictures\New_DotNet\Review_Question\stringPractice\obj\Debug\net8.0\stringPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\Pictures\New_DotNet\Review_Question\stringPractice\obj\Debug\net8.0\stringPractice.AssemblyInfoInputs.cache
+C:\Users\Nimap\Pictures\New_DotNet\Review_Question\stringPractice\obj\Debug\net8.0\stringPractice.AssemblyInfo.cs
+C:\Users\Nimap\Pictures\New_DotNet\Review_Question\stringPractice\obj\Debug\net8.0\stringPractice.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Pictures\New_DotNet\Review_Question\stringPractice\obj\Debug\net8.0\stringPractice.sourcelink.json
+C:\Users\Nimap\Pictures\New_DotNet\Review_Question\stringPractice\obj\Debug\net8.0\stringPractice.dll
+C:\Users\Nimap\Pictures\New_DotNet\Review_Question\stringPractice\obj\Debug\net8.0\refint\stringPractice.dll
+C:\Users\Nimap\Pictures\New_DotNet\Review_Question\stringPractice\obj\Debug\net8.0\stringPractice.pdb
+C:\Users\Nimap\Pictures\New_DotNet\Review_Question\stringPractice\obj\Debug\net8.0\stringPractice.genruntimeconfig.cache
+C:\Users\Nimap\Pictures\New_DotNet\Review_Question\stringPractice\obj\Debug\net8.0\ref\stringPractice.dll
